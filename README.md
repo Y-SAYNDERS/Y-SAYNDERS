@@ -1,7 +1,6 @@
 <div align="center">
     <img src="header.svg" width="400" height="400" alt="css-in-readme">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-SAYNDERS&show_icons=true&theme=radical)
 <!--
 **Y-SAYNDERS/Y-SAYNDERS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
